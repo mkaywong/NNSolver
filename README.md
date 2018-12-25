@@ -8,7 +8,7 @@ The download contains three folders.
 
 * NNSolver - python classes
 * Notebooks - a number of python notebooks to demonstrate how to run the networks
-* Dataset - MNIST and Cifar-10 datasets. They are converted from the original datasets into .npz format.
+* Dataset - MNIST and Cifar-10 datasets. Download the original datasets and convert them into .npz format.
 
 # Prerequisites
 
